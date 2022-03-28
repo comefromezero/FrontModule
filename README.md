@@ -4,6 +4,8 @@ practice for IIFE AMD CMD UMD
 
 ## how to use?
 
+配置http server的location为/website/www
+
 将所有文件放入到linux服务器的/website/www目录下，然后通过以下URL访问：
 
 linuxserverIP=你的linux服务器的IP地址
