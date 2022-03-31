@@ -25,3 +25,10 @@ http://linuxserverIP/CMD/index.html
 4. UMD
 
 http://linuxserverIP/UMD/index.html
+
+
+5. ES6
+
+ES6有很多例子，因此xxxxx表示后缀，具体参考代码。
+
+http://linuxserverIP/ES6/index_xxxxx.html
